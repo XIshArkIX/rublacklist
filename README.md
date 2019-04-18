@@ -6,7 +6,7 @@
 
 Rublacklist requires [Node.js](https://nodejs.org/)  which support fs to run.
 
-Install the dependencies and devDependencies and start the server.
+How to:
 
 ```bash
 $ wget https://api.reserve-rbl.ru/api/v2/current/json -O res.json
